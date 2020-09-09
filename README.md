@@ -1,5 +1,8 @@
-### Here what i am working on👋
-
+<p align ="center"> ### Hello World, i'm RAM👋 </p>
+<p align = "center">
+  <a href = "https://twitter.com/hey_rama_"> Twitter</a>
+ </p>
+ 
 - 🔭 I’m currently working on ... Divorce Rate 
 - 🌱 I’m currently learning ...Data Analysis With Python
 - 👯 I’m looking to collaborate on ...Anyp Project using python
