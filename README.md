@@ -1,4 +1,4 @@
-<h1><p align ="center"> Hello World, i'm RAM👋 </p></h1>
+<h1><b><p align ="center"> Hello World, i'm RAM👋 </p></b></h1>
 
 <p align = "center">
   <a href = "https://twitter.com/hey_rama_"> Twitter</a> &nbsp;&nbsp;
@@ -14,4 +14,4 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...itsramakrushna@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am not a funny guy
+- ⚡ Fun fact: ...I'm a funny guy
