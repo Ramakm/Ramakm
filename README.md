@@ -1,4 +1,4 @@
-! [] (cover.jpg)
+! [] (/cover.jpg)
 <h1><b><p align ="center"> Hello World, i'm RAM👋 </p></b></h1>
 
 <p align = "center">
