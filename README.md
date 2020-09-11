@@ -1,11 +1,10 @@
 <b><h1><p align ="center"> Hello World, I AM RAM </p></h1></b>
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+  <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
   
    [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ramakm)](https://dev.to/ramakm) 
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/)](https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/) 
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com)](mailto:itsramakrushna@gmail.com)
      [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hey_rama_)
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ramakrushna8594)](https://www.facebook.com/ramakrushna8594)
   </p>
@@ -17,16 +16,14 @@
 <!-- Namaste 🙏 -->
 
 
-🔭 I’m currently working on ... Divorce Rate 
-🌱 I’m currently learning ...Data Analysis With Python
-👯 I’m looking to collaborate on ...Any Project using python
-🤔 I’m looking for help with ...Django
-💬 Ask me about ...Anything
-📫 How to reach me: ...itsramakrushna@gmail.com
-😄 Pronouns: ...He/Him
+🔭 I’m currently working on ... Divorce Rate<br>
+🌱 I’m currently learning ...Data Analysis With Python<br>
+👯 I’m looking to collaborate on ...Any Project using python<br>
+🤔 I’m looking for help with ...Django<br>
+💬 Ask me about ...Anything<br>
+📫 How to reach me: ...itsramakrushna@gmail.com<br>
+😄 Pronouns: ...He/Him<br>
 ⚡ Fun fact: ...I'm a funny guy
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ramakm}/count.svg)
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
  
