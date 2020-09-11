@@ -1,5 +1,6 @@
-<img src = "image/cover.jpg" heignt = "100" width = "100">
-<b><h1><p align ="center"> Hello World, i'm RAM👋 </p></h1></b>
+<img src = "image/cover.jpg">
+<b><h1><p align ="center"> Hello World, I AM RAM </p></h1></b>
+
 
 <p align = "center">
   <a href = "https://twitter.com/hey_rama_"> Twitter</a> &nbsp;&nbsp;
