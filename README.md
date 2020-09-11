@@ -1,5 +1,5 @@
-! [cover image] (/image/cover.jpg)
-<h1><b><p align ="center"> Hello World, i'm RAM👋 </p></b></h1>
+<img src = "image/cover.jpg">
+<b><h1><p align ="center"> Hello World, i'm RAM👋 </p></h1></b>
 
 <p align = "center">
   <a href = "https://twitter.com/hey_rama_"> Twitter</a> &nbsp;&nbsp;
