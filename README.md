@@ -1,4 +1,4 @@
-<h1><b><p align ="center"> Hello World, i'm RAM👋 </p></b></h1>
+<h1><b img src= "https://github.com/Ramakm/Ramakm/blob/master/cover.jpg"><p align ="center"> Hello World, i'm RAM👋 </p></b></h1>
 
 <p align = "center">
   <a href = "https://twitter.com/hey_rama_"> Twitter</a> &nbsp;&nbsp;
