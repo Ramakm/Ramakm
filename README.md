@@ -1,4 +1,4 @@
-<img src = "image/cover.jpg">
+<img src = "image/cover.jpg" heignt = "100" width = "100">
 <b><h1><p align ="center"> Hello World, i'm RAM👋 </p></h1></b>
 
 <p align = "center">
