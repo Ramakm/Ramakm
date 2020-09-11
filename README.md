@@ -1,4 +1,3 @@
-<img src = "image/cover.jpg">
 <b><h1><p align ="center"> Hello World, I AM RAM </p></h1></b>
 
 
