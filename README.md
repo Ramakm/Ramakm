@@ -4,12 +4,13 @@
 <p align="center">
   <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
   
-   [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ramakm)](https://dev.to/ramakm) 
+  [![Website](https://img.shields.io/website?label=ramakm.github.io&style=for-the-badge&url=https%3A%2F%2Framakm.github.io)](https://ramakm.github.io)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/hey_rama_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hey_rama_)
+
+  
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/)](https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/) 
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ramakrushna8594)](https://www.facebook.com/ramakrushna8594)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com)](mailto:itsramakrushna@gmail.com)
-   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hey_rama_)](https://twitter.com/hey_rama_)
-
   </p>
  
 
