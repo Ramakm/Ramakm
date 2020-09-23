@@ -1,7 +1,7 @@
-<!-- <b><h1>![cover image](https://github.com/Ramakm/Ramakm/blob/master/image/Cover-gif.gif) -->
+<!-- ![cover image](https://github.com/Ramakm/Ramakm/blob/master/image/Cover-gif.gif) -->
 <img align="center" height="400px" src="https://github.com/Ramakm/Ramakm/blob/master/image/Cover-gif.gif" />
 
-  <p align ="center"> Hello World, I AM RAM </p></h1></b>
+  <b><h1><p align ="center"> Hello World, I am Ram </p></h1></b>
 
 <p align="center">
   <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
