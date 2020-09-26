@@ -22,7 +22,7 @@
 <!-- Namaste 🙏 -->
 
 
-🔭 I’m currently working on ... Divorce Rate<br>
+🔭 I’m currently working on ... Budget App<br>
 🌱 I’m currently learning ...Data Analysis With Python<br>
 👯 I’m looking to collaborate on ...Any Project using python<br>
 🤔 I’m looking for help with ...Django<br>
