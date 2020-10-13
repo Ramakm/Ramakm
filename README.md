@@ -51,10 +51,11 @@
 - [Tic-Tac-Toe: Game using pygame libraries](https://dev.to/ramakm/a-simple-python-tic-tac-toe-game-using-pygame-1l8b)
 
 </br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ramakm)
-
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ramakm}/count.svg)
+
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ramakm&show_icons=true" /></p>
+
  
 <p align = "center"><b>"Good Artist copy, great artist steals"</b></p>
 <p align = "center"><b>~Pablo Picasso</b></p>
