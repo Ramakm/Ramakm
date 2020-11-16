@@ -50,6 +50,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tic-Tac-Toe: Game using pygame libraries](https://dev.to/ramakm/a-simple-python-tic-tac-toe-game-using-pygame-1l8b)
 - [add-readme-to-github-profile](https://dev.to/ramakm/add-readme-to-github-profile-1nn0)
+- [web-scrapping-using-python-beautifulsoup](https://dev.to/ramakm/web-scrapping-using-python-beautifulsoup-3kk2)
+
 
 
 </br>
