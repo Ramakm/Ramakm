@@ -56,7 +56,7 @@
 
 </br>
 
-![Visitor Count](https://profile-counter.glitch.me/{Ramakm}/count.svg)
+![Profile Visitor Count](https://profile-counter.glitch.me/{Ramakm}/count.svg)
 
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ramakm&show_icons=true" /></p>
 
