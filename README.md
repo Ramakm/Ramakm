@@ -62,4 +62,4 @@
 
  
 <p align = "center"><b>"Good Artist copy, great artist steals"</b></p>
-<p align = "center"><b>~Pablo Picasso</b></p>
+<p align = "center"><b>~Pablo Picaso</b></p>
