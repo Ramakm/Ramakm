@@ -1,5 +1,3 @@
-<!-- ![cover image](https://github.com/Ramakm/Ramakm/blob/master/image/Cover-gif.gif) -->
-<img align="center" height="300px" src="https://github.com/Ramakm/Ramakm/blob/master/image/Header.jpg" />
 
   <b><h1><p align ="center"> Hello World, I am Ram </p></h1></b>
 
