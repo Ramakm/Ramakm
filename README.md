@@ -3,7 +3,7 @@
   <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
   
   [![Website](https://img.shields.io/website?label=ramakm.github.io&style=for-the-badge&url=https%3A%2F%2Framakm.github.io)](https://ramakm.github.io)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/hey_rama_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/python_manic)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/hey_rama_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codewith_ram)
 
   
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/)](https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/) 
