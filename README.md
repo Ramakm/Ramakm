@@ -29,8 +29,8 @@
 <br />
 <br>
 <b><h2>Languages and Tools: </h2></b>
+<!--  <img align="right" height="270px" alt="GIF" src=image/github-contribution-grid-snake.gif" /> -->
 
-![snake gif](https://github.com/Ramakm/Ramakm/blob/output/github-contribution-grid-snake.gif)
 
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
