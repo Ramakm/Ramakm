@@ -18,17 +18,19 @@
 <!-- Namaste 🙏 -->
 
 
-🔭 I’m currently working on ... Budget App<br>
-🌱 I’m currently learning ...Data Analysis With Python<br>
-👯 I’m looking to collaborate on ...Any Project using python<br>
-🤔 I’m looking for help with ...Django<br>
+🔭 I’m currently working on ... Building REST API using python<br>
+🌱 I’m currently learning ...Data Science<br>
+👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
+🤔 I’m looking for help with ...Kubernet/Docker<br>
 💬 Ask me about ...Anything<br>
 📫 How to reach me: ...itsramakrushna@gmail.com<br>
 😄 Pronouns: ...He/Him<br>
-⚡ Fun fact: ...I'm a funny guy
+⚡ Fun fact: ...I will make you laugh once you text me for sure
 <br />
 <br>
 <b><h2>Languages and Tools: </h2></b>
+
+![snake gif](https://github.com/Ramakm/Ramakm/blob/output/github-contribution-grid-snake.gif)
 
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
