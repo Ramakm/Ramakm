@@ -18,7 +18,6 @@
 <a href="https://leetcode.com/Ramakm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadeedpv" height="30" width="40" /></a>
 </p>
  
- ![snake gif](https://github.com/Sadeedpv/Sadeedpv/blob/output/github-contribution-grid-snake.gif)
 
 <!--  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
@@ -26,21 +25,16 @@
 <!-- Namaste 🙏 -->
 
 
-🔭 I’m currently working on ... Building REST API using python<br>
-🌱 I’m currently learning ...Data Science<br>
+🔭 I’m currently working on ..Data Visualization And SQL Projects<br>
+🌱 I’m currently Pursuing Masters in Data Science <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
 🤔 I’m looking for help with ...Kubernet/Docker<br>
-💬 Ask me about ...Anything<br>
 📫 How to reach me: ...itsramakrushna@gmail.com<br>
 😄 Pronouns: ...He/Him<br>
-⚡ Fun fact: ...I will make you laugh once you text me for sure<br>
-👨‍💻 Link to my portfolio website [https://ramakm.github.io](https://ramakm.github.io)
+👨‍💻 Link to my portfolio website [Portfolio](https://ramakm.github.io)
 <br />
 <br>
 <b><h2>Languages and Tools: </h2></b>
-
-
-
 
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -68,7 +62,7 @@
 </br>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramakm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakm&" alt="Ramakm" /></p>
 
  
