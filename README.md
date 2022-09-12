@@ -40,6 +40,8 @@
 <b><h2>Languages and Tools: </h2></b>
 
 
+
+
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -56,6 +58,7 @@
 <b><h2>Latest Blog Posts:</h2></b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source: From Zero to Hero](https://medium.com/@ramakrushna_mohapatra8594/open-source-github-from-zero-to-hero-6ebc31451a52)
 - [Tic-Tac-Toe: Game using pygame libraries](https://dev.to/ramakm/a-simple-python-tic-tac-toe-game-using-pygame-1l8b)
 - [add-readme-to-github-profile](https://dev.to/ramakm/add-readme-to-github-profile-1nn0)
 - [web-scrapping-using-python-beautifulsoup](https://dev.to/ramakm/web-scrapping-using-python-beautifulsoup-3kk2)
@@ -64,7 +67,6 @@
 
 </br>
 
-![Profile Visitor Count](https://profile-counter.glitch.me/{Ramakm}/count.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramakm&show_icons=true&locale=en" alt="Ramakm" /></p>
 
