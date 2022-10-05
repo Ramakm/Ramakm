@@ -1,69 +1,55 @@
 
 <p align="center">
   <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
-  
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/)](https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/) 
-   [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ramakrushna8594)](https://www.facebook.com/ramakrushna8594)
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com)](mailto:itsramakrushna@gmail.com)
-  </p>
-  
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ramakm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadeedpv" height="30" width="40" /></a>
-<a href="https://twitter.com/codewith_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvsadeed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14127155/ramakrushna-mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18243271" height="30" width="40" /></a>
-<a href="https://medium.com/@sadeedmohamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadeedmohamad" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ramakm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadeedpv" height="30" width="40" /></a>
-</p>
- 
 
-<!--  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 {:CODERS} <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
 
-
-🔭 I’m currently working on ..Data Visualization And SQL Projects<br>
+🔭 I’m currently working on ..Data Science Related Projects<br>
 🌱 I’m currently Pursuing Masters in Data Science <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
 🤔 I’m looking for help with ...Kubernet/Docker<br>
-📫 How to reach me: ...itsramakrushna@gmail.com<br>
 😄 Pronouns: ...He/Him<br>
-👨‍💻 Link to my portfolio website [Portfolio](https://ramakm.github.io)
 <br />
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-itsramakrushna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com" />
+<img src="https://img.shields.io/badge/-Ramakrushna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/" />
+<img src="https://img.shields.io/badge/-codewith_ram-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/codewith_ram" />
+
+</p>
+
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
+ <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
+ <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+ <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat-square&logo=jupyter&logoColor=white"/>
+ <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white"/>
+
+</p>
 <br>
-<b><h2>Languages and Tools: </h2></b>
+<h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
+<p align="center">
+<a href="https://github.com/Ramakm">
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramakm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "335em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramakm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
-
-</br>
-<br>
-
-<b><h2>Latest Blog Posts:</h2></b>
-
-<!-- BLOG-POST-LIST:START -->
-- [Open Source: From Zero to Hero](https://medium.com/@ramakrushna_mohapatra8594/open-source-github-from-zero-to-hero-6ebc31451a52)
-- [Tic-Tac-Toe: Game using pygame libraries](https://dev.to/ramakm/a-simple-python-tic-tac-toe-game-using-pygame-1l8b)
-- [add-readme-to-github-profile](https://dev.to/ramakm/add-readme-to-github-profile-1nn0)
-- [web-scrapping-using-python-beautifulsoup](https://dev.to/ramakm/web-scrapping-using-python-beautifulsoup-3kk2)
-
-
-
-</br>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramakm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakm&" alt="Ramakm" /></p>
+<p align = "center">
+<img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakm&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+</p> 
+<!---
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ramakm&theme=redical">
+</p>  
+--->
 
  
 <p align = "center"><b>"Good Artist copy, great artist steals"</b></p>
