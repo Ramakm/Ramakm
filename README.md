@@ -12,7 +12,7 @@
 <br />
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-itsramakrushna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com" />
+<img src="https://img.shields.io/badge/-Gmail:Ramakrushna-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com" />
 <img src="https://img.shields.io/badge/-Ramakrushna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramakrushna-mohapatra-433567a4/" />
 <img src="https://img.shields.io/badge/-codewith_ram-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/codewith_ram" />
 
