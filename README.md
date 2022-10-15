@@ -47,6 +47,7 @@
 
 </p>
 <br>
+[Buy Me a Coffe](https://www.buymeacoffee.com/Ramakrushna)
 <h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
 <p align="center">
 <a href="https://github.com/Ramakm">
