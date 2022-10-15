@@ -4,12 +4,25 @@
 
 <!-- Namaste 🙏 -->
 
-🔭 I’m currently working on ..Data Science Related Projects<br>
-🌱 I’m currently Pursuing Masters in Data Science <br>
+🔭 I’m currently doing Masters in Data Science<br>
+🌱 I’m currently looking for internship/fulltime as a Data Scientist <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
-🤔 I’m looking for help with ...Kubernet/Docker<br>
+🤔 I’m looking for help in ...Kubernet/Docker<br>
 😄 Pronouns: ...He/Him<br>
 <br />
+<p>
+<h4>Experiences</h4>
+            
+**Accenture:**<br>
+                        I have 4 years of experience in Accenture. I had worked here as a automation tester and Database engineer. I used skills like python3, MySQL,Selenium, Jira, TFS, Pycharm, Salesforce HRM, SpatialNET. I had worked in 2 projects. One is in Healthcare domain and another one is in network domain. Manual testing also done but very less. I had managed nearly 2 teams where maximum number people worked under me was 4. I used to connect with onshore SME regarding functional clarifications and weekend calls for updating the whole week work. I had awarded 2 times by 2 different teams as employee of the month award. I worked in teams with size like 400 to 500 resources. I am a team players. Always try to help my teammates when they need.
+
+</p>
+
+**Chegg:(Par-time)**<br>
+                      I have been doing part time for last one year. I left full time due to some health issue. In Chegg, i was a subject matter expert. I used to solve computer related problems from CS student or from IT professional in the field of Algorithms, DS, OS or Networking. As I am IT graduate, i had knowldge about these subjects before. So, i did try my best to give them the best solution to their problems. 
+                      
+
+
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Gmail:Ramakrushna-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsramakrushna@gmail.com" />
