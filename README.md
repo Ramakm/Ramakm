@@ -56,8 +56,8 @@
 <p align="center">
 <a href="https://github.com/Ramakm">
   <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramakm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" width = "335em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramakm&layout=compact&langs_count=8&theme=algolia"/> -->
-<!--    <img src="https://raw.githubusercontent.com/Ramakm/Ramakm/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br> -->
+   <img height="180em" width = "335em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramakm&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 
