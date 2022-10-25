@@ -81,7 +81,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Ramakm&theme=redical">
 </p>  
 --->
-
+<p align = 'center'>
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=Ramakm&theme=gotham" alt="Ram's GitHub Activity"/>
+</p>
  
 <p align = "center"><b>"Good Artist copy, great artist steals"</b></p>
 <p align = "center"><b>~Pablo Picaso</b></p>
