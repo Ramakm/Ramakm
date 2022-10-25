@@ -48,6 +48,18 @@
 </p>
 <br>
 <br>
+<h2 align="center">Kaggle Statistics🥇</h2>
+<div align="center">
+<a href="https://www.kaggle.com/ramakrushnamohapatra"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ramakrushnamohapatra" /></a>
+</div>
+<p align="center">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ramakrushnamohapatra/dataset" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ramakrushnamohapatra/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ramakrushnamohapatra/discussion" />
+</p>
+<br>
+<br>
+<br>
 <a href="https://www.buymeacoffee.com/Ramakrushna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br>
 <br>
