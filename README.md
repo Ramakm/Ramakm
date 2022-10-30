@@ -1,6 +1,6 @@
 <a href="https://github.com/Ramakm" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramakm&label=Profile%20views&color=129e00" alt="Ramakm" /></a>
 <p align="center">
-  <i> If you are intersted in project collaboration! Hit any of the link below to connect</i>
+  <i>Looking For Opportunities in DatScience Field! Hit any of the link below to connect</i>
 
 <!-- Namaste 🙏 -->
 
@@ -8,7 +8,6 @@
 🌱 I’m currently looking for internship/fulltime as a Data Scientist <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
 🤔 I’m looking for help in ...Kubernet/Docker<br>
-😄 Pronouns: ...He/Him<br>
 <br />
 <p>
 <h4>Experiences</h4>
