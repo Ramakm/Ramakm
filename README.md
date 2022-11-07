@@ -7,7 +7,8 @@
 🔭 I’m currently doing Masters in Data Science<br>
 🌱 I’m currently looking for internship/fulltime as a Data Scientist <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
-🤔 I’m looking for help in ...Kubernet/Docker<br>
+🤔 I’m looking for help in ...help in Cloud<br>
+  
 <br />
 <p>
 <h4>Experiences</h4>
