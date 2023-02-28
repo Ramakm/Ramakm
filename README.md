@@ -13,13 +13,16 @@
 <p>
 <h4>Experiences</h4>
             
-**Accenture:**<br>
+**Accenture:(2017-2021)**<br>
                         I have 4 years of experience in Accenture. I had worked here as a automation tester and Database engineer. I used skills like python3, MySQL,Selenium, Jira, TFS, Pycharm, Salesforce HRM, SpatialNET. I had worked in 2 projects. One is in Healthcare domain and another one is in network domain. Manual testing also done but very less. I had managed nearly 2 teams where maximum number people worked under me was 4. I used to connect with onshore SME regarding functional clarifications and weekend calls for updating the whole week work. I had awarded 2 times by 2 different teams as employee of the month award. I worked in teams with size like 400 to 500 resources. I am a team players. Always try to help my teammates when they need.
 
 </p>
 
-**Chegg:(Par-time)**<br>
-                      I have been doing part time for last one year. I left full time due to some health issue. In Chegg, i was a subject matter expert. I used to solve computer related problems from CS student or from IT professional in the field of Algorithms, DS, OS or Networking. As I am IT graduate, i had knowldge about these subjects before. So, i did try my best to give them the best solution to their problems. 
+**Chegg:(Par-time)(2021-2022)**<br>
+                      I have been doing part time for last one year. I left full time due to some health issue. In Chegg, i was a subject matter expert. I used to solve computer related problems from CS student or from IT professional in the field of Algorithms, DS, OS or Networking. As I am IT graduate, i had knowldge about these subjects before. So, i did try my best to give them the best solution to their problems.<br>
+
+**Intellipaat:(Intern)(12-22 to 02-23)<br>
+I Worked here as a data analyst for nearly 2 months. I used to analyze their YouTube contents and other social media platform data and gave them content title solutions. I used mostly data visualization techniques and tools like Tableau here.
                       
 
 
