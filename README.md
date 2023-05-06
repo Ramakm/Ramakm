@@ -1,4 +1,4 @@
-![Readme Gif](https://user-images.githubusercontent.com/8182816/236623967-6d96f491-2412-49bc-9f18-9e91188a72a5.gif)
+<img width = '1200' src = 'https://user-images.githubusercontent.com/8182816/236623967-6d96f491-2412-49bc-9f18-9e91188a72a5.gif'>
 
 <a href="https://github.com/Ramakm" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramakm&label=Profile%20views&color=129e00" alt="Ramakm" /></a>
 
