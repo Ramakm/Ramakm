@@ -3,7 +3,7 @@
 <a href="https://github.com/Ramakm" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramakm&label=Profile%20views&color=129e00" alt="Ramakm" /></a>
 
 <p align="center">
-  <i>Looking For Opportunities in DatScience Field! Hit any of the link below to connect</i>
+  <i>Looking For Opportunities in Data Analyst Field! Hit any of the link below to connect</i>
 
 <!-- Namaste 🙏 -->
 
@@ -11,6 +11,8 @@
 🌱 I’m currently looking for internship/fulltime as a Data Scientist <br>
 👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
 🤔 I’m looking for help in ...help in Cloud<br>
+
+I am building a organization as well for tech community @Growtechie [Link] (https://www.linkedin.com/company/growtechieind/)
   
 <br />
 <p>
