@@ -15,16 +15,36 @@
 <p>
 <h4>Experiences</h4>
 
-**Intellipaat:(Dec 2022- Mar 2023)**<br>
-                       I have worked here as a Data Analyst Intern. Used tech like Python, SQL and tool like Power BI. I used to work with their social media team to improve their customer enggagement.Mostly worked here on Power BI tool and sometimes using python code.
+### **Intellipaat:(Dec 2022- Mar 2023)**<br>
+     
+  **Data Analysis & Data Mining<br>**
+     
+• Analyzing customer habits & creating user-friendly reports using data manipulation to boost subscribers on social medias by
+32%<br>
+• Deploying quantitative analysis & data mining/visualization to present data on user interaction with the product• Identifying and analyzing the impact of marketing and product changes on customer acquisition & behavior, and retention.
 <br>
 
- **Chegg:(2021-2022)** <br>
-                      I have been doing part time for last one year. I left full time due to some health issue. In Chegg, i was a subject matter expert. I used to solve computer related problems from CS student or from IT professional in the field of Algorithms, DS, OS or Networking. As I am IT graduate, i had knowldge about these subjects before. So, i did try my best to give them the best solution to their problems.<br>
+ ### **Chegg:(2021-2022)** <br>
+    
+  **Data Processing & Transformation & Analysis<br>**
+    
+• Helped students and professionals for their personal as well in industry projects. Give them the solution they need, whether it
+may be using python, SQL or Power BI. More than 500 students/professionals got helped from me during this period.<br>
                       
                       
-**Accenture:(2017-2021)**<br>
-                        I have 4 years of experience in Accenture. I had worked here as a automation tester and Database engineer. I used skills like python3, MySQL,Selenium, Jira, TFS, Pycharm, Salesforce HRM, SpatialNET. I had worked in 2 projects. One is in Healthcare domain and another one is in network domain. Manual testing also done but very less. I had managed nearly 2 teams where maximum number people worked under me was 4. I used to connect with onshore SME regarding functional clarifications and weekend calls for updating the whole week work. I had awarded 2 times by 2 different teams as employee of the month award. I worked in teams with size like 400 to 500 resources. I am a team players. Always try to help my teammates when they need.
+### **Accenture:(2017-2021)**<br>
+    
+  **Data Processing & Transformation & Analysis<br>**
+  
+• Analyzing policyholder behavior and generating easily understandable reports through data manipulation to enhance the
+enrollment of insurance policies. whether it may be using python, SQL.<br>
+
+  **Report Generation & Troubleshooting<br>**
+    
+• Generating weekly reports and updating the resources with new data
+• Training the recruits in data storage structures and data cleansing while managing & maintaining master data
+• Resolving issues pertaining to dashboards and reporting database environment and overseeing the quality assurance of the
+imported data
 
 </p>
                       
@@ -42,9 +62,8 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
+ <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=563D7C"/>
  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
- <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
