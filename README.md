@@ -3,15 +3,14 @@
 <a href="https://github.com/Ramakm" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramakm&label=Profile%20views&color=129e00" alt="Ramakm" /></a>
 
 <p align="center">
-  <i>Looking For Opportunities in DatScience Field! Hit any of the link below to connect</i>
+  <i>Looking For Opportunities in Analytics Field! Hit any of the link below to connect</i>
 
 <!-- Namaste 🙏 -->
 
-🔭 I’m currently doing Masters in Data Science<br>
-🌱 I’m currently looking for internship/fulltime as a Data Scientist <br>
-👯 I’m looking to collaborate on ...Any Project related to Data Science<br>
-🤔 I’m looking for help in ...help in Cloud<br>
-  
+🔭 I’m currently Building @Growtechie<br>
+🌱 I’m currently looking for Analyst related Jobs/work <br>
+👯 I’m looking to collaborate on ...Any Project related to LLM/AI<br>
+ 
 <br />
 <p>
 <h4>Experiences</h4>
