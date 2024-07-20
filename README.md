@@ -15,6 +15,10 @@
 <p>
 <h4>Experiences</h4>
 
+### **Growtechie:(APR 2023- Present)**<br>
+  **Co-Founder & CTO<br>**
+We as a org. founded with a mission, offers affordable and project-oriented tech courses to empower students with industry-relevant skills. Deviating from expensive alternatives, Growtechie provides access to knowledgeable industry instructors at 𝗻𝗲𝗴𝗼𝘁𝗶𝗮𝗯𝗹𝗲 prices. Emphasizing 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, the company encourages students to embark on building projects, fostering practical 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝗮𝗻𝗱 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝘂𝗿𝘀𝗲 𝗱𝘂𝗿𝗮𝘁𝗶𝗼𝗻.
+
 ### **Intellipaat:(Dec 2022- Mar 2023)**<br>
      
   **Data Analysis & Data Mining<br>**
