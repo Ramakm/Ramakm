@@ -10,7 +10,10 @@
 🔭 I’m currently Building @Growtechie<br>
 🌱 I’m currently looking for Analyst related Jobs/work <br>
 👯 I’m looking to collaborate on ...Any Project related to LLM/AI<br>
- 
+
+<p align = "center"> 
+<a href="https://app.daily.dev/ramakrushnamohapatra"><img src="https://api.daily.dev/devcards/v2/LInIHY0W6wz1BPw9GxsIk.png?type=wide&r=dbe" width="652" alt="Ramakrushna Mohapatra's Dev Card"/></a>
+</p>
 <br />
 <p>
 <h4>Experiences</h4>
@@ -102,6 +105,7 @@ imported data
 <p align = "center">
 <img height="180em" width = "400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakm&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
+
 <!---
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Ramakm&theme=redical">
