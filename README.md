@@ -1,5 +1,3 @@
-<img width = '1200' src = 'https://user-images.githubusercontent.com/8182816/236623967-6d96f491-2412-49bc-9f18-9e91188a72a5.gif'>
-
 <a href="https://github.com/Ramakm" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramakm&label=Profile%20views&color=129e00" alt="Ramakm" /></a>
 
 <p align="center">
@@ -7,13 +5,9 @@
 
 <!-- Namaste 🙏 -->
 
-🔭 I’m currently Building @Growtechie<br>
-🌱 I’m currently looking for Analyst related Jobs/work <br>
-👯 I’m looking to collaborate on ...Any Project related to LLM/AI<br>
-
-<p align = "center"> 
-<a href="https://app.daily.dev/ramakrushnamohapatra"><img src="https://api.daily.dev/devcards/v2/LInIHY0W6wz1BPw9GxsIk.png?type=wide&r=dbe" width="652" alt="Ramakrushna Mohapatra's Dev Card"/></a>
-</p>
+🔭 I’m founder of @Growtechie<br>
+🌱 I’m currently building two AI products <br>
+👯 I’m looking to collaborate on ...Any Project related to AI<br>
 <br />
 <p>
 <h4>Experiences</h4>
